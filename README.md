@@ -21,6 +21,7 @@ ionic cordova build android
 ```
 #### To run in emulator
 ```bash
-ionic cordova run android```
+ionic cordova run android
+```
 
 Substitute ios for android if on a Mac.
