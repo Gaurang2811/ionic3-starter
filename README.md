@@ -9,7 +9,7 @@ A Ionic3 Angular4 Application
 ```bash
 $ sudo npm install -g ionic cordova
 ```
-#### To Run it, cd into `BeSocial` and run.
+#### To Run it, cd into `ionic3-starter` and run.
 ```bash
 npm install
 ionic serve
